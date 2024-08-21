@@ -1,3 +1,8 @@
+> [!CAUTION]
+> This crate has been moved into the [embedded-devices](https://github.com/oddlama/embedded-devices)
+> workspace. Further development will happen at the new location. This repository
+> is now archived.
+
 # Embedded Registers
 
 [![Crate](https://img.shields.io/crates/v/embedded-registers.svg)](https://crates.io/crates/embedded-registers)
